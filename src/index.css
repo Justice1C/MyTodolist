@@ -1,0 +1,16 @@
+body {
+    background-color: orange;
+    text-align: center;
+}
+
+.pep {
+    color: white;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.input{
+    color: aqua;
+}
